@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594224917362",
+    "firebase_url": "https://telegram-clone-flutter.firebaseio.com",
+    "project_id": "telegram-clone-flutter",
+    "storage_bucket": "telegram-clone-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594224917362:android:5fcf7e6867e34d3134cbeb",
+        "android_client_info": {
+          "package_name": "com.muhammadali.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594224917362-1k9mngtbepkj8ab3m0chjipitfsddut4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.telegramchatapp",
+            "certificate_hash": "7392facec56de968a3c5958a708bbc90bc9a5142"
+          }
+        },
+        {
+          "client_id": "594224917362-gektuo61qk2d63jkgb23nfv296383s8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0MwJld6ELs_7LDDqxmHAwQ3yogfF6vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594224917362-gektuo61qk2d63jkgb23nfv296383s8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
